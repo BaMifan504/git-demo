@@ -1,1 +1,2 @@
 Hello Git, 这是我的第一个实操笔记
+今天，我在vs code里改了代码，然后按快捷键command➕s保存文件
